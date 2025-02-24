@@ -10,13 +10,13 @@ A Python tool for analyzing message patterns in large CSV datasets. This tool pr
 - Memory-efficient data processing
 
 ## Example Output
-![Message Patterns Over Time](example_outputs/message_trends_Ariana.png)
+![Message Patterns Over Time](example_outputs/message_trends_Kyle.png)
 *Example visualization showing message frequency over time*
 
 ## Installation
 1. Clone the repository
-   - ```bash
-    git clone https://github.com/MarcellusL/CSV-Message-Pattern-Analyzer.git
+```bash
+git clone https://github.com/MarcellusL/CSV-Message-Pattern-Analyzer.git
 2. Create a virtual environment: `python -m venv venv`
 3. Activate the virtual environment:
    - Windows: `.\venv\Scripts\activate`
