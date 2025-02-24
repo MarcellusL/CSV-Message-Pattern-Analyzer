@@ -10,7 +10,7 @@ A Python tool for analyzing message patterns in large CSV datasets. This tool pr
 - Memory-efficient data processing
 
 ## Example Output
-![Message Patterns Over Time](example_outputs/message_trends_Kyle.png)
+![Message Patterns Over Time](example_output/message_trends_Kyle.png)
 *Example visualization showing message frequency over time*
 
 ## Installation
