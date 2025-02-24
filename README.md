@@ -17,6 +17,7 @@ A Python tool for analyzing message patterns in large CSV datasets. This tool pr
 1. Clone the repository
 ```bash
 git clone https://github.com/MarcellusL/CSV-Message-Pattern-Analyzer.git
+```
 2. Create a virtual environment: `python -m venv venv`
 3. Activate the virtual environment:
    - Windows: `.\venv\Scripts\activate`
