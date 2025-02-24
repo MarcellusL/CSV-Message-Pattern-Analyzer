@@ -33,5 +33,6 @@ Run `python main.py` and follow the prompts to:
 
 ## Technologies Used
 - Python 3.10.11
-- pandas for data processing
+- pandas for CSV processing
 - matplotlib for visualization
+- datetime for data handling and time-series analysis
