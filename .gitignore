@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+
+# Virtual Environment
+.env
+.venv
+env/
+ENV/
+
+# VSCode
+.vscode/
+
+# Generated files
+*.csv
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Test files (temporary)
+test.py
+tests/
