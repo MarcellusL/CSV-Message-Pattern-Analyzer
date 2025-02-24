@@ -28,7 +28,7 @@ class ChartVisualizer:
                 plt.gcf().autofmt_xdate() # Rotate date labels for better readability
 
                 # Add chart labels and grid
-                plt.title('Messages Over Time')
+                plt.title(f'Messages Over Time for {person_name}')
                 plt.xlabel('Date')
                 plt.ylabel('Number of Messages')
                 plt.grid(True) 
