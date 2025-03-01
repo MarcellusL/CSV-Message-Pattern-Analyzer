@@ -14,7 +14,7 @@ A Python tool for analyzing message patterns in large CSV datasets. This tool pr
 The tool is designed to work with CSV files containing message data in the following format:
 
 | Sender  | Receiver  | Date       | Time     | Message                                            |
-|---------|-----------|------------|----------|---------------------------------------------------|
+|---------|-----------|------------|----------|----------------------------------------------------|
 | Jojo    | Kyle      | 2015-01-01 | 00:00:01 | Not interested                                     |
 | Tyler   | Denise    | 2015-01-01 | 00:00:02 | Eat mop                                            |
 | Daniel  | Robin     | 2015-01-01 | 00:00:02 | Did you ever hear the tragedy of Darth Plaguei...  |
