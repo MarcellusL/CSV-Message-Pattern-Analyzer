@@ -9,6 +9,21 @@ A Python tool for analyzing message patterns in large CSV datasets. This tool pr
 - Generate time-series visualizations
 - Memory-efficient data processing
 
+## Sample Data Format
+
+The tool is designed to work with CSV files containing message data in the following format:
+
+```csv
+Sender,Receiver,Date,Time,Message
+Jojo,Kyle,2015-01-01,00:00:01,Not interested
+Tyler,Denise,2015-01-01,00:00:02,Eat mop
+Daniel,Robin,2015-01-01,00:00:02,Did you ever hear the tragedy of Darth Plaguei...
+Alice,Kyle,2015-01-01,00:00:02,I have a boyfiend
+Denise,Tyler,2015-01-01,00:00:03,Whose there
+Kevin,Charlotte,2015-01-01,00:00:04,Are you a time traveler? Because I can see you...
+Ricky,Ariana,2015-01-01,00:00:06,Are you a loan? You've got my interest.
+```
+
 ## Example Output
 ![Message Patterns Over Time](example_output/message_trends_Kyle.png)
 *Example visualization showing message frequency over time*

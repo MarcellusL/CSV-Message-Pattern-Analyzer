@@ -69,7 +69,7 @@ class MessageAnalyzer:
         column_names = df.columns.tolist()
 
         print(f"\nColumns found: {column_names}")
-        print("\nFirst 10 rows:")
+        print(f"\nFirst {nrows} rows:")
         print(df)
 
         total_rows = len(df)
